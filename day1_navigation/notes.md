@@ -1,0 +1,3 @@
+- pwd shows current location
+- ls shows files
+- cd is used to move between folders

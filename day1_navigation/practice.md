@@ -1,0 +1,4 @@
+- Created practice_area folder
+- Created folder1 and folder2
+- Moved between folders using cd
+- Used pwd to check location
