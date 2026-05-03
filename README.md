@@ -4,7 +4,7 @@
 
 | Day | Topic | Status |
 |-----|-------|--------|
-| 1 | Navigation Commands | ⏳ |
+| 1 | Navigation Commands | ✅ |
 | 2 | File Management | ⏳ |
 | 3 | Permissions | ⏳ |
 | 4 | Process Management | ⏳ |
