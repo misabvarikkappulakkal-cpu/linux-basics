@@ -1,5 +1,3 @@
-# Linux File Management Notes
-
 ## Basic Commands
 - ls → list files
 - ls -l → detailed view
