@@ -1,8 +1,4 @@
-# Linux Practice Log
-
-## Day 2 - File Management Practice
-
-### Tasks Completed:
+## Tasks Completed:
 - Created folders using mkdir
 - Navigated using cd
 - Listed files using ls, ls -l, ls -a
@@ -10,7 +6,7 @@
 - Moved and renamed files using mv
 - Created test folder inside linux directory
 
-### Commands Practiced:
+## Commands Practiced:
 - ls
 - cd
 - mkdir
@@ -18,7 +14,7 @@
 - mv
 - rm (theory only)
 
-### Experiment Done:
+## Experiment Done:
 Moved commands.txt into test folder and renamed it to COMMANDS.txt
 
 ### Observation:
