@@ -20,5 +20,3 @@ commands.txt
 ➜  linux mv commands.txt test/COMMANDS.txt
 ➜  linux ls test
 COMMANDS.txt
-➜  linux
-
