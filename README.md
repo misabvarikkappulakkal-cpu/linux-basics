@@ -7,7 +7,7 @@
 | 1 | Navigation Commands | ✅ |
 | 2 | File Management | ✅ |
 | 3 | Permissions | ✅ |
-| 4 | Process Management | ⏳ |
+| 4 | Process Management | ✅ |
 | 5 | Package Management | ⏳ |
 | 6 | Shell Scripting Basics | ⏳ |
 | 7 | Networking Basics | ⏳ |
