@@ -36,15 +36,19 @@
 
 This journey covers the following core Linux topics:
 
-- Navigation Commands
-- File Management
-- Permissions
-- Process Management
-- Package Management
-- Shell Scripting
-- Networking Basics
-- Disk & Storage
-- User Management
-- System Monitoring
-- Automation & Cron Jobs
-- Basic Shell Utilities
+- Navigation Commands (pwd, ls, cd)
+- File Management (cp, mv, rm, mkdir)
+- Viewing Files (cat, less, head, tail)
+- Permissions (chmod, chown, sudo)
+- Process Management (ps, top, kill)
+- Package Management (apt, install/update/remove)
+- Redirection & Pipes (>, >>, <, |)
+- Text Processing (grep, sort, uniq, basic awk)
+- Environment Variables (echo, $PATH, export)
+- Disk & Storage (df, du, basic mounting`)
+- User Management (adduser, passwd, groups)
+- Networking Basics (ping, curl, wget, ip)
+- System Monitoring (top, free, uptime, logs intro)
+- Services (systemctl basics)
+- Shell Scripting (basic .sh, variables, loops)
+- Automation & Cron Jobs (crontab)
