@@ -8,15 +8,20 @@
 | 2 | File Management | ✅ |
 | 3 | Permissions | ✅ |
 | 4 | Process Management | ✅ |
-| 5 | Package Management | ⏳ |
-| 6 | Shell Scripting Basics | ⏳ |
-| 7 | Networking Basics | ⏳ |
-| 8 | Disk & Storage | ⏳ |
-| 9 | User Management | ⏳ |
-| 10 | System Monitoring | ⏳ |
-| 11 | Automation & Cron Jobs | ⏳ |
-| 12 | Mini Project Implementation | ⏳ |
-| 13 | Review & Practice | ⏳ |
+| 5 | Viewing Files | ⏳ |
+| 6 | Package Management | ⏳ |
+| 7 | Redirection & Pipes | ⏳ |
+| 8 | Text Processing | ⏳ |
+| 9 | Environment Variables | ⏳ |
+| 10 | Disk & Storage | ⏳ |
+| 11 | User Management | ⏳ |
+| 12 | Networking Basics | ⏳ |
+| 13 | System Monitoring | ⏳ |
+| 14 | Services | ⏳ |
+| 15 | Shell Scripting Basics | ⏳ |
+| 16 | Automation & Cron Jobs | ⏳ |
+| 17 | Mini Project Implementation | ⏳ |
+| 18 | Review & Practice | ⏳ |
 
 ---
 
