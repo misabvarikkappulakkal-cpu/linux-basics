@@ -9,7 +9,7 @@
 | 3 | Permissions | ✅ |
 | 4 | Process Management | ✅ |
 | 5 | Viewing Files | ✅ |
-| 6 | Package Management | ⏳ |
+| 6 | Package Management | ✅ |
 | 7 | Redirection & Pipes | ⏳ |
 | 8 | Text Processing | ⏳ |
 | 9 | Environment Variables | ⏳ |
