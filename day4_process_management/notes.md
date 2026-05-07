@@ -100,4 +100,4 @@ ps aux | grep sleep
 Process management is important for:
 - System monitoring
 - Debugging programs
-- Managing servers
+- Managing servers 
