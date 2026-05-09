@@ -10,7 +10,7 @@
 | 4 | Process Management | ✅ |
 | 5 | Viewing Files | ✅ |
 | 6 | Package Management | ✅ |
-| 7 | Redirection & Pipes | ⏳ |
+| 7 | Redirection & Pipes | ✅ |
 | 8 | Text Processing | ⏳ |
 | 9 | Environment Variables | ⏳ |
 | 10 | Disk & Storage | ⏳ |
