@@ -12,7 +12,7 @@
 | 6 | Package Management | ✅ |
 | 7 | Redirection & Pipes | ✅ |
 | 8 | Text Processing | ✅ |
-| 9 | Environment Variables | ⏳ |
+| 9 | Environment Variables | ✅ |
 | 10 | Disk & Storage | ⏳ |
 | 11 | User Management | ⏳ |
 | 12 | Networking Basics | ⏳ |
