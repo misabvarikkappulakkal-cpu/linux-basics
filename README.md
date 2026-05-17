@@ -17,7 +17,7 @@
 | 11 | User Management | ✅ |
 | 12 | Networking Basics | ✅ |
 | 13 | System Monitoring | ✅ |
-| 14 | Services | ⏳ |
+| 14 | Services | ✅ |
 | 15 | Shell Scripting Basics | ⏳ |
 | 16 | Automation & Cron Jobs | ⏳ |
 | 17 | Mini Project Implementation | ⏳ |
