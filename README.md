@@ -18,7 +18,7 @@
 | 12 | Networking Basics | ✅ |
 | 13 | System Monitoring | ✅ |
 | 14 | Services | ✅ |
-| 15 | Shell Scripting Basics | ⏳ |
+| 15 | Shell Scripting Basics | ✅ |
 | 16 | Automation & Cron Jobs | ⏳ |
 | 17 | Mini Project Implementation | ⏳ |
 | 18 | Review & Practice | ⏳ |
