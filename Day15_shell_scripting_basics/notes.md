@@ -109,4 +109,4 @@ Shell scripting is one of the strongest beginner skills for:
 - Cloud Engineering
 - Cybersecurity
 
-Even small scripts can automate huge tasks.
+Even small scripts can automate huge tasks. 
