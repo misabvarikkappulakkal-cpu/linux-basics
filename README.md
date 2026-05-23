@@ -20,13 +20,13 @@
 | 14 | Services | ✅ |
 | 15 | Shell Scripting Basics | ✅ |
 | 16 | Automation & Cron Jobs | ✅ |
-| 17 | Mini Project Implementation | ⏳ |
+| 17 | Mini Project Implementation | ✅ |
 | 18 | Review & Practice | ⏳ |
 
 ---
 
 ## 🛠️ Mini-Projects
-- File Organizer Script – ⏳
+- File Organizer Script – ✅
 - System Info Script – ⏳
 - Backup Automation Script – ⏳
 
