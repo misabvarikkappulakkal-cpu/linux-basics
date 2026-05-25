@@ -29,6 +29,13 @@
 - File Organizer Script – ✅
 - System Info Script – ✅
 - Backup Automation Script – ⏳
+- Disk Usage Analyzer - ⏳
+- Log Cleaner Script - ⏳
+- User Management Script - ⏳
+- Service Monitoring Script - ⏳
+- CPU & RAM Monitor Dashboard - ⏳
+- Linux Security Audit Script - ⏳
+- Automated Server Setup Script - ⏳
 
 ---
 
