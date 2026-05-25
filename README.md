@@ -27,7 +27,7 @@
 
 ## 🛠️ Mini-Projects
 - File Organizer Script – ✅
-- System Info Script – ⏳
+- System Info Script – ✅
 - Backup Automation Script – ⏳
 
 ---
