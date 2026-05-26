@@ -28,7 +28,7 @@
 ## 🛠️ Mini-Projects
 - File Organizer Script – ✅
 - System Info Script – ✅
-- Backup Automation Script – ⏳
+- Backup Automation Script – ✅
 - Disk Usage Analyzer - ⏳
 - Log Cleaner Script - ⏳
 - User Management Script - ⏳
