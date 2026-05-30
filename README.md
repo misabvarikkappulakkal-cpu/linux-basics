@@ -29,7 +29,7 @@
 - File Organizer Script – ✅
 - System Info Script – ✅
 - Backup Automation Script – ✅
-- Disk Usage Analyzer - ⏳
+- Disk Usage Analyzer - ✅
 - Log Cleaner Script - ⏳
 - User Management Script - ⏳
 - Service Monitoring Script - ⏳
