@@ -31,7 +31,7 @@
 - Backup Automation Script – ✅
 - Disk Usage Analyzer - ✅
 - Log Cleaner Script - ✅
-- User Management Script - ⏳
+- User Management Script - ✅
 - Service Monitoring Script - ⏳
 - CPU & RAM Monitor Dashboard - ⏳
 - Linux Security Audit Script - ⏳
