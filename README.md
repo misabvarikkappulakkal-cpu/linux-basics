@@ -33,9 +33,12 @@
 - Log Cleaner Script - ✅
 - User Management Script - ✅
 - Service Monitoring Script - ✅
-- CPU & RAM Monitor Dashboard - ⏳
 - Linux Security Audit Script - ⏳
 - Automated Server Setup Script - ⏳
+- SSH Login Alert System – ⏳
+- File Integrity Checker – ⏳
+- Cron Job Manager – ⏳
+- Server Health Dashboard – ⏳
 
 ---
 
