@@ -34,7 +34,7 @@
 - User Management Script - ✅
 - Service Monitoring Script - ✅
 - CPU & RAM Monitor Dashboard - ✅
-- Linux Security Audit Script - ⏳
+- Linux Security Audit Script - ✅
 - Automated Server Setup Script - ⏳
 - SSH Login Alert System – ⏳
 - File Integrity Checker – ⏳
